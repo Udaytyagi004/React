@@ -1,0 +1,17 @@
+{
+  "name": "namsate-react",
+  "version": "1.0.0",
+  "description": "This is react course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Tyagi"
+  ],
+  "author": "uday",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
