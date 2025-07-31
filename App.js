@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 //creating a html tag via React
 const heading = React.createElement(
   "h1",
